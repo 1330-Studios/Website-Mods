@@ -1,0 +1,10 @@
+{
+  "Name": "Grim Reaper",
+  "Version": "1.0.0",
+  "Description": "Custom tower that one shots bloons with a high attack cooldown.",
+  "RepoOwner": "1330 Studios",
+  "RepoName": "Website-Mods",
+  "SubPath": "GrimReaper",
+  "DllName": "GrimReaper.dll",
+  "Author": "1330 Studios"
+}
